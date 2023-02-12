@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Mathivanan M</h1>
 <h3 align="center">A passionate python backend developer from India</h3>
 
-- 🔭 I’m currently working on [Simmi Foundation](https://simmibackendtest.herokuapp.com/)
 
 - 🌱 I’m currently learning **Rest Framework**
 
