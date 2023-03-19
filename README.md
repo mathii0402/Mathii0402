@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mathivananmv.cs20@bitsathy.ac.in**
 
-- 📄 To know about me and my works visit mathi.works
+- 📄 To know about me and my works visit <a href="mathi.works">mathi.works</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
