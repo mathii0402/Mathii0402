@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mathivananmv.cs20@bitsathy.ac.in**
 
-- 📄 Know about my experiences [https://tinyurl.com/mathi0402resume](https://tinyurl.com/mathi0402resume)
+- 📄 To know about me and my works visit mathi.works
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
