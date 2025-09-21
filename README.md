@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Django, Machine Learning**
 
-- 📫 How to reach me **mathivananmv.cs20@bitsathy.ac.in**
+- 📫 How to reach me **mathivanan041002@gmail.com**
 
 - 📄 To know about me and my works visit <a href="https://mathi.works/">mathi.works</a>
 
